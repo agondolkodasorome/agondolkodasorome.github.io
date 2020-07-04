@@ -1,15 +1,12 @@
-{%- comment -%}
-  Include vars:
-  scrolly_nav
-{%- endcomment -%}
-
-<!-- Header -->
-<div id="header">
-  <div class="top">
-    {%- include logo.html -%}
-    {%- include nav.html section_items=include.scrolly_nav -%}
-  </div>
-  <div class="bottom">
-    {%- include social_icons.html -%}
+<div class='header {{include.headerClass}}'>
+  <div class="container">
+    <div class="logo">
+      <a href="{{site.baseurl}}/"><img alt="Figurit Homepage" src="{{site.baseurl}}/assets/images/logo.svg" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="{{site.baseurl}}/"><img alt="Figurit Homepage" src="{{site.baseurl}}/assets/images/logo-mobile.svg" /></a>
+    </div>
+    {% include main-menu.html %}
+    {% include hamburger.html %}
   </div>
 </div>
