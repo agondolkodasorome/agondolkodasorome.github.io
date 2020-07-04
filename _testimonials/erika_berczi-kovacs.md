@@ -1,9 +1,7 @@
 ---
-title: 'Erika Bérczi-Kovács'
-image: ''
-businessurl: ''
-name: 'ELTE TTK, Department of Operations Research'
-business: ''
+name: 'Erika Bérczi-Kovács'
+city: 'Budapest'
+institute: 'ELTE TTK, Department of Operations Research'
 jobtitle: 'assistant professor'
 ---
 

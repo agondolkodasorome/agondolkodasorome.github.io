@@ -1,9 +1,7 @@
 ---
-title: 'Tímea Bradák'
-image: ''
-businessurl: ''
-name: 'Közgazdasági Politechnikum Alternatív Gimnázium és Szakközépiskola'
-business: ''
+name: 'Tímea Bradák'
+city: 'Budapest'
+institute: 'Közgazdasági Politechnikum Alternatív Gimnázium és Szakközépiskola'
 jobtitle: 'math teacher'
 ---
 

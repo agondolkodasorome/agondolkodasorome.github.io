@@ -1,9 +1,7 @@
 ---
-title: 'Judit Ács'
-image: ''
-businessurl: ''
-name: 'BME'
-business: ''
+name: 'Judit Ács'
+city: 'Budapest'
+institute: 'BME'
 jobtitle: 'Computational linguistics'
 ---
 

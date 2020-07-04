@@ -1,9 +1,7 @@
 ---
-title: 'Endre Csóka'
-image: ''
-businessurl: ''
-name: 'University of Warwick'
-business: ''
+name: 'Endre Csóka'
+city: 'Budapest'
+institute: 'University of Warwick'
 jobtitle: 'research fellow'
 ---
 

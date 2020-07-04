@@ -1,9 +1,7 @@
 ---
-title: 'Eszter Bóra'
-image: ''
-businessurl: ''
-name: ''
-business: ''
+name: 'Eszter Bóra'
+city: 'Budapest'
+institute: ''
 jobtitle: 'Applied mathematician, Psychologist'
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: 'Gergely Faragó'
-image: ''
-businessurl: ''
-name: ''
-business: ''
+name: 'Gergely Faragó'
+city: 'Budapest'
+institute: ''
 jobtitle: 'Financial computer scientist'
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: 'István Agócs'
-image: ''
-businessurl: ''
-name: 'Allianz'
-business: ''
+name: 'István Agócs'
+city: 'Budapest'
+institute: 'Allianz'
 jobtitle: 'Systems analyst, project team-leader'
 ---
 

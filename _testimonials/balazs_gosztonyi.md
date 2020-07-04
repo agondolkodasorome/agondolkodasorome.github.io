@@ -1,9 +1,7 @@
 ---
-title: 'Balázs Gosztonyi'
-image: ''
-businessurl: ''
-name: ''
-business: ''
+name: 'Balázs Gosztonyi'
+city: 'Budapest'
+institute: ''
 jobtitle: 'researcher programmer'
 ---
 

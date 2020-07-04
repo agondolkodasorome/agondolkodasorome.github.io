@@ -1,9 +1,7 @@
 ---
-title: 'Zoltán Blázsik'
-image: ''
-businessurl: ''
+name: 'Zoltán Blázsik'
+city: 'Budapest'
 name: 'ELTE'
-business: ''
 jobtitle: 'PhD student'
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: 'Eszter Donáth Istvánné Kristóf'
-image: ''
-businessurl: ''
-name: '77 Elektronika Llc.'
-business: ''
+name: 'Eszter Donáth Istvánné Kristóf'
+city: 'Budapest'
+institute: '77 Elektronika Llc.'
 jobtitle: 'quality-control engineer'
 ---
 

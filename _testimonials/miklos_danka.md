@@ -1,9 +1,7 @@
 ---
-title: 'Miklós Danka'
-image: ''
-businessurl: ''
-name: 'Palantir Technologies'
-business: ''
+name: 'Miklós Danka'
+city: 'London'
+institute: 'Palantir Technologies'
 jobtitle: 'Software engineer'
 ---
 

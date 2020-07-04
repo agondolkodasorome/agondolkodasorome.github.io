@@ -1,9 +1,7 @@
 ---
-title: 'Ildikó Czeller'
-image: ''
-businessurl: ''
-name: ''
-business: ''
+name: 'Ildikó Czeller'
+city: 'Budapest'
+institute: ''
 jobtitle: 'mathematician'
 ---
 

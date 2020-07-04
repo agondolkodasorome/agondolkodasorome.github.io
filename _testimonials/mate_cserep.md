@@ -1,9 +1,7 @@
 ---
-title: 'Máté Cserép'
-image: ''
-businessurl: ''
-name: 'ELTE'
-business: ''
+name: 'Máté Cserép'
+city: 'Budapest'
+institute: 'ELTE'
 jobtitle: 'PhD student'
 ---
 

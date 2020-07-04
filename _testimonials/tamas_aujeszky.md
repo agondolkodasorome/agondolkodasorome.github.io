@@ -1,9 +1,7 @@
 ---
-title: 'Tamás Aujeszky'
-image: ''
-businessurl: ''
-name: 'New York University / New York University Abu Dhabi'
-business: ''
+name: 'Tamás Aujeszky'
+city: 'New York City / Abu Dhabi'
+institute: 'New York University / New York University Abu Dhabi'
 jobtitle: 'PhD student'
 ---
 
