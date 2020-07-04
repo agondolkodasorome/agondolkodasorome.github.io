@@ -1,21 +1,9 @@
-<script src="/assets/js/scripts.js"></script>
-<div id="main-menu" class="main-menu">
+<div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
     <li><a href="{{site.baseurl}}/services/" class="{% if page.url contains 'services' %}current{% endif %}">Services</a></li>
     <li><a href="{{site.baseurl}}/team/" class="{% if page.url contains 'team' %}current{% endif %}">Team</a></li>
     <li><a href="{{site.baseurl}}/testimonials/" class="{% if page.url contains 'testimonials' %}current{% endif %}">Testimonials</a></li>
-    <li><a href="{{site.baseurl}}/partnerships/" class="{% if page.url contains 'partnerships' %}current{% endif %}">Partnerships</a></li>
     <li><a href="{{site.baseurl}}/contact/" class="{% if page.url contains 'contact' %}current{% endif %}">Contact</a></li>
-
-	<li class="dropdown">
-		<a href="#" class="dropdown-toggle otherProgLangs" data-toggle="dropdown" class="dropbtn" onclick="myFunction()" id="myBtn">Custom Menu<b class="caret"></b></a>
-		<ul class="dropdown-menu dropdown-content" id="myDropdown">
-			<li><a href="{{site.baseurl}}/contact/">Writer docs</a> </li>
-			<li><a href="{{site.baseurl}}/team/">Team</a> </li>
-			
-		</ul>
-	</li>
-
   </ul>
 </div>
