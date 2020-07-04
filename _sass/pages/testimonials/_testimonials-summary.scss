@@ -20,16 +20,20 @@
     a {
     }
   }
-  .testimonials-title {
-    margin-bottom: 5px;
-  }
   .testimonials-name {
     font-weight: bold;
-    display: inline-block;
+    margin-bottom: 5px;
   }
   .testimonials-jobtitle {
     display: inline-block;
     color: $secondary;
+    font-weight: bold;
+  }
+  .testimonials-institute {
+    display: inline-block;
+  }
+  .testimonials-city {
+    display: inline-block;
   }
   .testimonials-content {
     flex: 1 0 100%;
