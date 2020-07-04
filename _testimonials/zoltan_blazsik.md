@@ -1,7 +1,7 @@
 ---
 name: 'Zoltán Blázsik'
 city: 'Budapest'
-name: 'ELTE'
+institute: 'ELTE'
 jobtitle: 'PhD student'
 ---
 
