@@ -1,18 +1,33 @@
-- title: About
-  url: /about.html
-- title: Team
-  url: /team.html
-- title: Contact
-  url: /contact.html
-- title: Store
-  url: /store.html
-- title: Support
-  url: /support.html
-  sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+toc:
+  - title: What we do
+    id: whatwedo
+    sublinks:
+      - title: What we do
+        url: whatwedo
+      - title: Our concepts
+        url: concepts
+      - title: Our founder
+        url: founder
+      - title: Testimonials
+        url: testimonials
+      - title: Alumni
+        url: alumni
+  - title: Our activities
+    id: activities
+    sublinks:
+      - title: Weekend camps
+        url: weekendcamps
+      - title: Flying school
+        url: flyingschool
+      - title: Summer camps
+        url: summercamps
+      - title: Tech camp
+        url: techcamp
+      - title: Mini-camps
+        url: minicamps
+      - title: Gondola project
+        url: gondola
+  - title: Partnerships
+    url: partnerships
+  - title: Photos
+    url: photos
