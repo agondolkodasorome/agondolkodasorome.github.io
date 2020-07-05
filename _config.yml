@@ -16,6 +16,7 @@ collections:
   partnerships:
     output: true
     permalink: /partnerships/:path/
+    
 
 defaults:
   - scope:
