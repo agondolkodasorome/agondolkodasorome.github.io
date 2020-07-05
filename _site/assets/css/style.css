@@ -2462,7 +2462,7 @@ ul.social li a span { font-size: 24px; }
 .feature .feature-content p strong { color: #414156; text-transform: uppercase; font-size: 0.8rem; font-weight: 700; }
 .feature .feature-content p em { color: #1c3ed3; font-style: normal; }
 
-.page-home { background-image: url("../images/undraw_taking_notes_tjaf.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-home { background-image: url("../images/globalis_hatterkep_v1.jpg"); background-repeat: no-repeat; background-size: 115%; background-attachment: fixed; background-size: cover; }
 @media (min-width: 576px) { .page-home { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-home { background-size: 70%; background-position: 100% -50px; } }
 @media (min-width: 992px) { .page-home { background-size: 60%; background-position: 100% -70px; } }
