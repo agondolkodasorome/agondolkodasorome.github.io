@@ -13,9 +13,10 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
-  partnerships:
+  flying_quotes:
     output: true
-    permalink: /partnerships/:path/
+    permalink: /flying_quotes/:path/
+    
 
 defaults:
   - scope:
