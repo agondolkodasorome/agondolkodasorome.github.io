@@ -1,0 +1,29 @@
+supporters:
+  - name: bsme
+    image: red-bsme-logo-final-small.jpg
+    url: https://bsmeducation.com/
+  - name: logmein
+    image: logmein-logo-big.png
+    url: https://logmein.hu/
+  - name: graphisoft
+    image: graphisoft-logo-black.png
+    url: http://www.graphisoft.hu/
+  - name: mta
+    image: mta2.png
+    url: http://mta.hu/
+  - name: sztaki
+    image: sztaki.png
+    url: http://www.sztaki.hu/
+  - name: renyi
+    image: renyi3.png
+    url: https://www.renyi.hu/hu
+  - name: otp
+    image: otp1.jpg
+    url: http://www.otpbank.hu/
+  - name: mgyosz
+    image: mgyosz.png
+    url: http://www.mgyosz.hu/hu/index.php
+    
+
+    
+    
