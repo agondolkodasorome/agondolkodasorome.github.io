@@ -13,9 +13,6 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
-  partnerships:
-    output: true
-    permalink: /partnerships/:path/
     
 
 defaults:
