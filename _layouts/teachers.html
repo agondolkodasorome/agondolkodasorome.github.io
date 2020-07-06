@@ -10,27 +10,49 @@ layout: default
           <h1 class="title">{{page.title}}</h1>
         </div>
         <div class="container pb-6">
+            <div class="row">
+                {% for teacher in site.founders %}
+              <div class="col-12 col-md-12 mb-1">
+                <div class="team team-summary">
+                  {% if teacher.image %}
+                  <div class="team-image">
+                    <img
+                      alt="{{ teacher.name }} logo"
+                      class="img-fluid mb-2"
+                      src="{{site.baseurl}}{{ teacher.image }}"
+                    />
+                  </div>
+                  {% endif %}
+                  <div class="team-meta">
+                    <h5 class="team-name"><b>{{ teacher.name }}</b></h5>
+                    <p class="team-description">{{ teacher.jobtitle }}</p>
+                    <p> <a href={{ teacher.link }}>More information</a> </p>
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+            
+        </div>
+        <div class="container pb-6">
           <div class="row">
-            {% for team in site.team %}
+              {% for teacher in site.teachers %}
             <div class="col-12 col-md-6 mb-1">
               <div class="team team-summary">
-                {% if team.image %}
+                {% if teacher.image %}
                 <div class="team-image">
                   <img
-                    alt="{{ team.title }} logo"
+                    alt="{{ teacher.name }} logo"
                     class="img-fluid mb-2"
-                    src="{{site.baseurl}}{{ team.image }}"
+                    src="{{site.baseurl}}{{ teacher.image }}"
                   />
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                  <h2 class="team-name">{{ team.title }}</h2>
-                  <p class="team-description">{{ team.jobtitle }}</p>
-                  {% if team.linkedinurl %}
-                  <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a>
-                  {% endif %}
+                  <h5 class="team-name"><b>{{ teacher.name }}</b></h5>
+                  <p class="team-description">{{ teacher.jobtitle }}</p>
                 </div>
-                <div class="team-content">{{ team.content }}</div>
+                <div class="team-content">{{ teacher.content }}</div>
               </div>
             </div>
             {% endfor %}

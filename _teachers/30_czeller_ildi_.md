@@ -1,0 +1,7 @@
+---
+name: 'Ildi Czeller'
+image: '/images/team/CzellerIldi.jpg'
+jobtitle: 'Tech Camp organizer'
+---
+
+I like things that either mesmerize me, like classical music, or make me think, for example of myself. Math often does both simultaneously :) I graduated from the Eötvös Loránd University as a mathematician, and have worked at Emarsys as a data scientist since.
