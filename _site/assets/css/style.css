@@ -2493,7 +2493,7 @@ ul.social li a span { font-size: 24px; }
 .team-summary .team-meta p { margin: 0; }
 .team-summary .team-content { flex: 1 0 100%; }
 
-.page-team-list { background-image: url("../images/undraw_hang_out_h9ud.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-team-list { background-image: url("../images/globalis_hatterkep_v1.jpg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-team-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-team-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-team-list { background-size: 60%; background-position: 100% -110px; } }
@@ -2511,7 +2511,7 @@ ul.social li a span { font-size: 24px; }
 .testimonials-summary .testimonials-content blockquote { display: block; border-width: 2px 0 0 0; border-style: solid; border-color: #eee; padding: 1.5em 0 0.5em; margin: 1.5em 0; position: relative; }
 .testimonials-summary .testimonials-content blockquote:before { content: "\201C"; position: absolute; top: 0em; left: 50%; transform: translate(-50%, -50%); background: #fff; width: 3rem; height: 2rem; font: 6em/1.08em "PT Sans", sans-serif; color: #1c3ed3; text-align: center; }
 
-.page-testimonials-list { background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-testimonials-list { background-image: url("../images/globalis_hatterkep_v1.jpg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-testimonials-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-testimonials-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-testimonials-list { background-size: 60%; background-position: 100% -110px; } }

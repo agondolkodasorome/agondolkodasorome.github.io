@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="strip strip-white strip-diagonal">
+  <div class="container pt-4 pt-md-10">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-8">
+        <div class="service service-single">
+          <h1 class="title">{{page.title}}</h1>
+        <!-- </div>
+        <div class="content">{{page.content | markdownify}}</div>
+      </div> -->
+    </div>
+    <div class="container pb-6">
+      <div class="row">
+        {% for testimonial in site.testimonials %}
+        <div class="col-12 col-md-6 mb-2 ">
+          <div class="testimonials testimonials-summary">
+            <div class="testimonials-meta">
+              <h2 class="testimonials-name">{{ testimonial.name }}</h2>
+              <p class="testimonials-jobtitle">{{ testimonial.jobtitle }}</p>
+              <p class="testimonials-institute">{{ testimonial.institute }}</p>
+              <p class="testimonials-city">({{ testimonial.city }})</p>
+            </div>
+            <div class="testimonials-content">{{ testimonial.content }}</div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
