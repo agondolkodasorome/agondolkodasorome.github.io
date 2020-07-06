@@ -2,8 +2,10 @@
   h1.title {
     font-size: 3rem;
     font-family: $font-family-heading;
-    color: $primary;
+    //color: $primary;
+    color: $h1-color;
     margin-bottom: 25px;
+    font-variant: small-caps;
   }
   .content {
     > p {
@@ -13,6 +15,14 @@
         margin-bottom: 40px;
         font-weight: 300;
       }
+    }
+    > h3 {
+      color: $h3-color;
+      font-variant: small-caps;
+    }
+    > h4 {
+      color: $h4-color;
+      font-variant: small-caps;
     }
   }
 }
