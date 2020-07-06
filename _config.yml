@@ -7,9 +7,12 @@ collections:
   services:
     output: true
     permalink: /services/:path/
-  team:
+  founders:
     output: true
-    permalink: /team/:path/
+    permalink: /founders/:path/
+  teachers:
+    output: true
+    permalink: /teachers/:path/
   testimonials:
     output: true
     permalink: /testimonials/:path/

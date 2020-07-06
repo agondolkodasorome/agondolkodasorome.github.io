@@ -1,0 +1,7 @@
+---
+name: 'Frigyes Janzer'
+image: '/images/team/janzer_frigyes-min.jpg'
+jobtitle: 'Gondola project organizer'
+---
+
+My background is in humanities, and I direct a book company. Within the Foundation, I am the head organizer of the Gondola project working with disadvantaged students. I met Lajos Pósa and the Foundation through my children. It is no wonder that I like books, but I am also enthusiastic about baroque music and playing tennis.

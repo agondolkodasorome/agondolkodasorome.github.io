@@ -1,0 +1,7 @@
+---
+name: 'László Nikházy'
+image: '/images/team/nikhazy_laci.jpg'
+jobtitle: 'Weekend camp group leader'
+---
+
+I graduated from the Budapest University of Technology and Economics as a software engineer and from the Eötvös Loránd University as a mathematics and informatics teacher, and then worked as a software engineer at Google in Munich and at NNG in Budapest. I currently work with talented students as mathematics and programming tutor. I have been a PhD student at ELTE since 2018, where my focus is the discovery-based education of programming. I co-led the weekend camps of groups Lemur and Mongúz with Lajos Pósa, and I plan to conduct similar camps on algorithmic programming. I am also a frequent helper at Tech Camps.
