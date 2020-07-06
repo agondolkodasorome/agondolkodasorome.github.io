@@ -1,28 +1,42 @@
 .service-single {
-  h1.title {
+  h1 {
     font-size: 3rem;
     font-family: $font-family-heading;
     //color: $primary;
     color: $h1-color;
     margin-bottom: 25px;
-    font-variant: small-caps;
-  }
-  .content {
-    > p {
-      &:first-of-type {
-        font-size: 24px;
-        line-height: 32px;
-        margin-bottom: 40px;
-        font-weight: 300;
-      }
-    }
-    > h3 {
-      color: $h3-color;
-      font-variant: small-caps;
-    }
-    > h4 {
-      color: $h4-color;
-      font-variant: small-caps;
-    }
+    //font-variant: small-caps;
+    text-transform: uppercase;
   }
 }
+.content {
+  //> p {
+  //  &:first-of-type {
+  //    font-size: 24px;
+  //    line-height: 32px;
+  //    margin-bottom: 40px;
+  //    font-weight: 300;
+  //  }
+  //}
+  h1 {
+    color: $h1-color;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 25px;
+  }
+  h3 {
+    color: $h3-color;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-bottom: 15px;
+  }
+  h4 {
+    color: $h4-color;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 12px;
+  }
+}
+
