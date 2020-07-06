@@ -16,6 +16,9 @@ collections:
   flying_quotes:
     output: true
     permalink: /flying_quotes/:path/
+  benefactors:
+    output: true
+    permalink: /benefactors/:path/
     
 
 defaults:
