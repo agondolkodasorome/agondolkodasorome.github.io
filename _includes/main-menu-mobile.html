@@ -15,7 +15,7 @@
 
 
 
-<div id="main-menu" class="main-menu">
+<!--<div id="main-menu" class="main-menu">-->
 <!--
   <ul>
     <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
@@ -29,6 +29,7 @@
   </ul>
 -->
 
+<!--
 <ul>
 {% for item in site.menus.header %}
   <li class="menu-item-{{ loop.index }}">
@@ -47,6 +48,31 @@
 </ul>
 </div>
 
+-->
 
 
+
+<script src="/assets/js/scripts.js"></script>
+<div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+	{% for item in site.data.navigation.toc %}
+      {% if item.sublinks[0] %}
+		<li class="dropdown">
+			<a href="#" class="dropdown-toggle otherProgLangs" data-toggle="dropdown" onclick="myFunction('{{item.id}}')" id="btn-{{item.id}}">{{item.title}}<b class="caret"></b></a>
+			
+			<ul class="dropdown-menu dropdown-content" id="dropdown-{{item.id}}">
+				{% for entry in item.sublinks %}
+				  <li><a href="{{site.baseurl}}/{{entry.url}}/">{{entry.title}}</a> </li>
+				{% endfor %}
+				
+			</ul>
+    	</li>
+      {% else %}
+        <li><a href="{{site.baseurl}}/{{item.url}}/" class="{% if page.url == '/' %}current{% endif %}">{{item.title}}</a></li>
+      {% endif %}
+      
+    {% endfor %}
+    
+  </ul>
+</div>
 

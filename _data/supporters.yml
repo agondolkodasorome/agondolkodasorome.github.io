@@ -1,0 +1,58 @@
+supporters:
+  - name: bsme
+    image: red-bsme-logo-final-small.jpg
+    url: https://bsmeducation.com/
+  - name: logmein
+    image: logmein-logo-big.png
+    url: https://logmein.hu/
+  - name: graphisoft
+    image: graphisoft-logo-black.png
+    url: http://www.graphisoft.hu/
+  - name: mta
+    image: mta2.png
+    url: http://mta.hu/
+  - name: sztaki
+    image: sztaki.png
+    url: http://www.sztaki.hu/
+  - name: renyi
+    image: renyi3.png
+    url: https://www.renyi.hu/hu
+  - name: otp
+    image: otp1.jpg
+    url: http://www.otpbank.hu/
+  - name: mgyosz
+    image: mgyosz.png
+    url: http://www.mgyosz.hu/hu/index.php
+  - name: tigra
+    image: TIGRA_logo.jpg
+    url: http://www.tigra.hu/
+  - name: prospero
+    image: ProsperoWWW.jpg
+    url: http://www.prospero.hu/
+  - name: invitech
+    image: invitech-logo_rgb_normal.jpg
+    url: https://www.invitech.hu/
+  - name: emarsys
+    image: EM-Logo-Horizontal-Color-RGB_002.png
+    url: https://www.emarsys.com/en-uk/
+  - name: hiflylabs
+    image: hiflylabs.png
+    url: http://hiflylabs.hu/
+  - name: morganstanley
+    image: morgan_stanley.jpg
+    url: http://www.morganstanley.com/about-us/global-offices/hungary/
+  - name: rubiks
+    image: Rubik.png
+    url: http://www.rubiks-rcsa.com/
+  - name: rotary
+    image: rotary.png
+    url: http://www.rotarytaban.hu/
+  - name: sonrisa
+    image: sonrisa.png
+    url: http://www.sonrisa.hu/
+  - name: rackforest
+    image: Rackforest-logo.jpg
+    url: http://www.rackforest.hu/
+
+    
+    
