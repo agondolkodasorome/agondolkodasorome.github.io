@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="strip strip-white strip-diagonal">
+  <div class="container pt-4 pt-md-10">
+    <div class="row justify-content-start">
+        
+      <div class="col-12 col-md-8">
+        <div class="service service-single">
+            <!-- <div class="intro pb-4">
+                <div class="container"> -->
+                    <h1 class="title">{{page.title}}</h1>
+             <!--   </div>
+             </div> -->
+          <!-- <h1 class="title">{{page.title}}</h1>
+          <div class="content">{{page.content}}</div> -->
+        </div>
+        
+        <div class="container pt-2">
+          <div class="call">
+            <div class="call-box-top">
+              <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
+              <div class="call-email"><strong>Email: </strong>
+                <a href="mailto:{{ site.data.contact.email }}">
+                  {{ site.data.contact.email }}
+                </a>
+              </div>
+            </div>
+            <!-- <div class="call-box-bottom">
+              <a href="{{site.baseurl}}/contact" class="button">Contact</a>
+            </div> -->
+          </div>
+        </div>
+        
+        <!-- <div class="content">{{page.content | markdownify}}</div> -->
+        
+      </div>
+    </div>
+  </div>
+</div>
