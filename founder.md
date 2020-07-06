@@ -1,7 +1,8 @@
 ---
-layout: simplepage
+layout: founder_page
 title: Our Founder
 bodyClass: page-home
+image: '/images/team/PosaLajos01.jpg'
 ---
 
 The Foundation was initiated by Lajos Pósa on the 22nd of May, 2014.
