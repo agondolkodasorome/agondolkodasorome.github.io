@@ -56,10 +56,10 @@
   <ul>
 	{% for item in site.data.navigation.toc %}
       {% if item.sublinks[0] %}
-        <li style="color: white; font-variant: small-caps;">{{item.title}}</li>
+        <li class="main-menu-mobile-skip" style="color: white; font-variant: small-caps;">{{item.title}}</li>
         
         {% for entry in item.sublinks %}
-		  <li><a href="{{site.baseurl}}/{{entry.url}}/">{{entry.title}}</a> </li>
+		  <li class="main-menu-mobile-text"><a href="{{site.baseurl}}/{{entry.url}}/">{{entry.title}}</a> </li>
 		{% endfor %}
         
 		<!--<li class="dropdown">
@@ -73,7 +73,7 @@
 			</ul>
     	</li> -->
       {% else %}
-        <li><a href="{{site.baseurl}}/{{item.url}}/" class="{% if page.url == '/' %}current{% endif %}">{{item.title}}</a></li>
+        <li class="main-menu-mobile-skip"><a href="{{site.baseurl}}/{{item.url}}/" class="{% if page.url == '/' %}current{% endif %}">{{item.title}}</a></li>
       {% endif %}
       
     {% endfor %}

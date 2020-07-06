@@ -53,6 +53,12 @@ supporters:
   - name: rackforest
     image: Rackforest-logo.jpg
     url: http://www.rackforest.hu/
-
+oldsupporters:
+  - name: jabil
+    image: jabil.png
+    url: http://www.jabil.hu/hu/
+  - name: logiscool
+    image: logiscool-header-logo.png
+    url: https://www.logiscool.com/
     
     
