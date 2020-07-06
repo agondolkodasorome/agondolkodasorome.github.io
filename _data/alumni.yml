@@ -1,0 +1,983 @@
+alumni:
+  - groupid: TO-csoport (1988-1992)
+    members:
+    - name: Faragó Gergely
+      city: Budapest
+      school: informatika (BME)
+      work: pénzügyi informatikus 
+    - name: Juhász Péter
+      city: Budapest
+      school: matematikatanár, térképész PhD, programozó matematikus  (ELTE)
+      work: tudományos munkatárs MTA Rényi Alfréd Matematikai Kutatóintézet
+    - name: Katz Sándor
+      city: Budapest
+      school: fizikus PhD (ELTE)
+      work: egyetemi tanár ELTE Elméleti Fizikai Tanszék
+    - name: Kéki Balázs
+      city: Budapest
+      school: informatika  (BME)
+      work: vezető fejlesztő Gawker Media
+    - name: Kepenyes Agnes 
+      city: Egyesült Államok
+      school: agrár közgazdász  (GATE, Purdue University)
+      work:  
+    - name: Kovács Gergely
+      city: Környe
+      school: alkalmazott matematikus PhD (ELTE)
+      work: főiskolai docens Edutus Főiskola
+    - name: Molnár-Sáska Gábor
+      city: Budapest
+      school: matematikus PhD, matematikatanár, közgazdász   (ELTE, BME, BGF)
+      work: executive director Morgan Stanley
+    - name: Reiff Ádám
+      city: Budapest
+      school: közgazdaságtan PhD (Corvinus, CEU)
+      work: kutató Magyar Nemzeti Bank
+    - name: Szeidemann Ákos
+      city: Tata
+      school: kémia-fizika PhD (ELTE)
+      work: kémia-fizika szakos középiskolai tanár Eötvös József Gimnázium, Tata
+    - name: Tóth Imre Péter
+      city: Halásztelek
+      school: fizikus, alkalmazott matematikus PhD (KLTE, BME)
+      work: tudományos főmunkatárs MTA TKI
+    - name: Urbán Péter
+      city: Langnau am Albis, Svájc
+      school: infomatika, kommunikációs rendszerek PhD (BME, EPFL)
+      work: szoftvermérnök Google
+  - groupid: Cs-csoport (1989-1991)
+    members:
+    - name: Kotosz Balázs
+      city: Szeged
+      school: közgazdász PhD (Corvinus)
+      work: docens SZTE
+    - name: Kovács Zoltán
+      city: Szeged
+      school: matematika-számítástechnika (JATE, Szeged)
+      work: assistant professor Priv. Päd. Hochschule, Linz, Ausztria
+    - name: Tarján Dénes
+      city: Pomáz
+      school: műszaki informatika (BME)
+      work: Senior Programozó NNG Kft.
+  - groupid: H-csoport (1989-1994)
+    members:
+    - name: Böde Csaba
+      city: Budapest
+      school: fizikus PhD (ELTE, SOTE)
+      work: Vice President Morgan Stanley
+    - name: Csorba István
+      city: Frankfurt am Main, Németország
+      school: műszaki Informatika (BME)
+      work: informatikus Európai Központi Bank
+    - name: Hanák Dávid
+      city: Budapest
+      school: műszaki Informatika (BME)
+      work: szoftverfejlesztő NNG Kft.
+    - name: Molnár-Sáska Ildikó
+      city: Budapest
+      school: matematika, fizika, informatika tanári (ELTE)
+      work: tanár Budapest, Szent István Gimnázium
+    - name: Röst Gergely
+      city: Szeged
+      school: matematikus PhD (SZTE)
+      work: kutatócsoport-vezető, tudományos főmunkatárs SZTE Bolyai Intézet
+    - name: Szabó Dénes
+      city: Budapest
+      school: alkalmazott matematikus, közgazdász (ELTE, BGF)
+      work: pénzügyi kulturmisszionárius MPK Zrt.
+    - name: Szeredi Tamás
+      city: Pomáz
+      school: műszaki Informatika (BME)
+      work: szoftverfejlesztő NNG Kft.
+    - name: Szijártó Gábor
+      city: Budapest
+      school: műszaki Informatika (BME)
+      work: vezető programozó eRad
+    - name: Tarján Péter
+      city: Budapest
+      school: műszaki Informatika (BME)
+      work: fejlesztő, tech lead NNG Kft.
+  - groupid: N-csoport (1991-1992)
+    members:
+    - name: Botka Eszter
+      city: Budapest
+      school: matematikus (SZTE)
+      work:  
+    - name: Dombi Gergely
+      city: Budapest
+      school: matematikus (ELTE)
+      work: CTO Sonrisa Informatikus Kft
+    - name: Németh Zoltán
+      city: Budapest
+      school: mérnök-informatikus (BME)
+      work: Vice President Morgan Stanley
+    - name: Valko Benedek
+      city: Madison, WI, USA
+      school: matematikus PhD (ELTE, BME)
+      work: full professor University of Wisconsin
+  - groupid: B-csoport (1992-1997)
+    members:
+    - name: Djurec Imre
+      city: Freienbach, Svajc
+      school: EU integráció (Corvinus)
+      work: trader / analyst 
+    - name: Frenkel Peter
+      city: Budapest
+      school: matematikus PhD (ELTE, BME)
+      work: adjunktus ELTE
+    - name: Koncz Imre
+      city: Budapest
+      school: fizikus (ELTE)
+      work: pénzügyi kutató, modellező Falkstenen AB
+    - name: Lippner Gábor
+      city: Boston, USA
+      school: matematikus PhD (ELTE)
+      work: Assistant Professor Northeastern University
+    - name: Molnár-Sáska Balázs
+      city: Budapest
+      school: mérnök-informatika (BME)
+      work: Senior szoftvermérnök LogMeIn
+    - name: Nyul Gábor
+      city: Debrecen
+      school: matematikus PhD (Debreceni Egyetem)
+      work: egyetemi adjunktus Debreceni Egyetem
+    - name: Szász Edit
+      city: Budakeszi
+      school: pénzügy (Corvinus)
+      work: Digital Delivery vezető Cib Bank
+    - name: Várady Gergő
+      city: New York, USA
+      school: mérnök-informatika (BME)
+      work: software engineer, manager Google
+    - name: Zubcsek Péter Pál
+      city: Gainesville FL, USA
+      school: management PhD informatikus (INSEAD, BME)
+      work: assistant professor Tel Aviv University
+  - groupid: R-csoport (1992-1993)
+    members:
+    - name: Mátyási István
+      city: Budapest
+      school: műszaki informatikus (BME)
+      work: Vice President MSCI
+  - groupid: R2-csoport (1994-1999)
+    members:
+    - name: Antók Péter
+      city: Budapest
+      school:  
+      work:  
+    - name: Boros Márton
+      city: Budapest
+      school: vegyész (ELTE)
+      work: matematika-fizika-kémia magántanár, óraadó BME, Balassi Intézet 
+    - name: Golda Bence
+      city: Budapest
+      school: műszaki informatikus, közgazdász (BME, Corvinus)
+      work: co-founder Cursor Insight
+    - name: Gönci Balázs
+      city: Budapest
+      school: fizikus PhD (ELTE)
+      work:  magántanár
+    - name: Horváth Gábor
+      city: Debrecen
+      school: matematikus PhD (ELTE)
+      work: egyetemi docens Debreceni Egyetem
+    - name: Kajtár Márton
+      city: Budapest
+      school: matematikus (ELTE)
+      work: kutató-fejlesztő Dolphio Technologies
+    - name: Kiss Ferenc Emánuel
+      city: Budapest
+      school: vezetésszervezés, controlling (Corvinus)
+      work: Pénzügyi elemző Budapest Bank
+    - name: Klinda Gábor
+      city: Budapest
+      school: műszaki informatikus (BME)
+      work: szoftver mérnök Nokia
+    - name: Palkó Tamás Attila
+      city: Budapest
+      school: matematika tanár (ELTE)
+      work: tanár Szász Ferenc Kereskedelmi Szakközépiskola és Szakiskola
+    - name: Pap Júlia
+      city: Budapest
+      school: matematikus PhD (ELTE)
+      work:  
+    - name: Salvi Péter
+      city: Budapest
+      school: programtervező matematikus (ELTE)
+      work: adjunktus BME
+    - name: Szakács László
+      city: Budapest
+      school: matematikus (ELTE)
+      work: statisztikai programozó Planimeter Kft.
+    - name: Tarján Gergely Tibor
+      city: Budapest
+      school: szociológus (PPKE)
+      work: data scientist Magyar Telekom
+    - name: Terpai Tamás
+      city: Budapest
+      school: matematikus PhD (ELTE)
+      work: adjunktus ELTE
+    - name: Varga Csilla
+      city: Budapest
+      school: közgazdász (Corvinus)
+      work: Pénzügyi igazgató Budaval Zrt
+    - name: Végh László
+      city: London
+      school: matematikus PhD (ELTE)
+      work: adjunktus London School of Economics
+    - name: Vértesi Vera
+      city: Mannheim, Németorszag
+      school: matematikus PhD (ELTE)
+      work: kutató Universite de Strasbourg, CNRS
+    - name: Zábrádi Gergely
+      city: Budapest
+      school: matematikus PhD (ELTE, University of Cambridge)
+      work: adjunktus ELTE Matematikai Intézet
+  - groupid: E-csoport (1995-2001)
+    members:
+    - name: Csikvári Péter
+      city: Budapest
+      school: matematikus PhD (ELTE)
+      work: adjunktus ELTE
+    - name: Csóka Endre
+      city: Budapest
+      school: matematikus PhD (ELTE)
+      work: Research fellow University of Warwick
+    - name: Horváth Illés
+      city: Budapest
+      school: matematikus (BME)
+      work: kutató MTA-BME Informatikai Rendszerek Kutatócsoport
+    - name: Nagy Gergely
+      city: Budapest / Malmö, Svédország
+      school: Physics for the Life Sciences (Université Grenoble Alpes)
+      work: tudományos munkatárs MTA Wigner FK / MTA SZBK / European Spallation Source ERIC
+    - name: Pesti Gábor
+      city: Budapest
+      school: műszaki informatika (BME)
+      work: Senior Ethical Hacker Citibank
+    - name: Regula Gergely
+      city: Budapest
+      school: villamosmérnök PhD (BME)
+      work: szoftverfejlesztő Commsignia Kft.
+    - name: Simon Győző
+      city: Svájc
+      school: alkalmazott matematikus (ELTE)
+      work: szoftverfejlesztő Sungard
+    - name: Tran Thanh Long
+      city: Southampton, UK
+      school: mérnök informatikus, computer science PhD (BME, Southampton)
+      work: senior research fellow University of Southampton
+  - groupid: FP-csoport (1997-2002)
+    members:
+    - name: Bérczi-Kovács Erika
+      city: Budapest
+      school: matematikus (ELTE)
+      work: tanársegéd ELTE
+    - name: Czirfusz Márton
+      city: Budapest
+      school: geográfus PhD (ELTE)
+      work: tudományos munkatárs MTA Közgazdaság- és Regionális Tudományi Kutatóközpont
+    - name: Gerencsér Balázs
+      city: Belgium
+      school: matematikus PhD (ELTE)
+      work: Poszdoktori kutató Université catholique de Louvain
+    - name: Jankó András
+      city: Budapest
+      school: matematikus (SZTE)
+      work: szoftverfejlesztő IntelliFactory
+    - name: Tóth Ágnes
+      city: Bázel, Svájc
+      school: matematikus PhD (BME)
+      work: szoftverfejlesztő Google
+  - groupid: Qa-csoport (1998-2004)
+    members:
+    - name: Agócs István
+      city: Budapest
+      school: gazdaságinformatikus (Corvinus)
+      work: projekt team-leader Allianz
+    - name: Egri Attila
+      city: Budapest
+      school: matematikus (ELTE)
+      work: Algoritmus és Szoftverfejlesztő mérnök Waters Corporation
+    - name: Gosztonyi Balázs
+      city: Budapest
+      school: matematikus (ELTE)
+      work: Kutató programozó 
+    - name: Kalina Gergely
+      city: Budapest
+      school: régészet  (ELTE)
+      work: szoftvertesztelő Tigra
+    - name: Keszthelyi Dániel
+      city: Oslo, Norvégia
+      school: geofizikus (ELTE)
+      work: PhD hallgató University of Oslo
+    - name: Király Csaba
+      city: Tököl
+      school: matematikus (ELTE)
+      work: tudományos segédmunkatárs ELTE
+    - name: Kiss-Tóth Christian
+      city: Budapest-Győr
+      school: matematikus (ELTE)
+      work: tanársegéd Győr, Széchenyi István Egyetem
+    - name: Mánfay Máté
+      city: London, UK
+      school: matematikus PhD (BME, CEU)
+      work: Strategist, Associate Goldman Sachs
+    - name: Rácz Miklós
+      city: Seattle, Washington, USA
+      school: statistics PhD (University of California, Berkeley)
+      work: Postdoctoral Researcher Microsoft Research
+    - name: Seres Gyula
+      city: Tilburg, Hollandia
+      school: közgazdaságtan, economics PhD (Corvinus, Tilburg University)
+      work: közgazdász kutató Tilburg University
+    - name: Somogyi Gábor
+      city: Budapest
+      school: gazdaságinformatikus (Corvinus)
+      work: Information Developer & Scrum Master SAP Hungary
+    - name: Szarvas-Hudáky Zsuzsanna
+      city: Budapest
+      school: matematikus (BME)
+      work: statisztikus Országos Bírósági Hivatal
+    - name: Szijártó András
+      city: Budapest
+      school: matematikus (BME)
+      work: szoftverfejlesztő T-Systems Zrt
+    - name: Tassy Gergely
+      city: Budapest
+      school: alkalmazott matematikus, matematika tanár (ELTE)
+      work: matematika tanár Veres Péter Gimnázium
+  - groupid: Qb-csoport (1998-2003)
+    members:
+    - name: Backhausz Ágnes
+      city: Budapest
+      school: matematikus PhD (ELTE)
+      work: tudományos munkatárs MTA Rényi Intézet
+    - name: Gyenge Ádám
+      city: Vancouver, Kanada
+      school: matematikus PhD (ELTE)
+      work: postdoctoral researcher University of British Columbia
+    - name: Huszár Viktor
+      city: Budapest
+      school:   
+      work:  
+    - name: Kárpátiné Molnár Ágnes
+      city: Budaörs
+      school: matematika-német (ELTE)
+      work: családanya Microsoft
+    - name: Maga Péter
+      city: Göttingen, Németország
+      school: matematikus PhD (ELTE, CEU)
+      work: tudományos munkatárs Georg-August-Universität, Göttingen
+    - name: Nagy Zoltán Lóránt
+      city: Budapest
+      school: matematikus matematikatanár (ELTE)
+      work: tudományos segédmunkatárs MTA-ELTE GAC kutatócsoport
+    - name: Nyeste Szabolcs
+      city: Budapest
+      school: műszaki informatika (BME)
+      work: programozó AdNovum
+    - name: Paulin Dániel
+      city: Szingapúr
+      school: mérnök (Ecole Centrale Paris)
+      work: Tudományos munkatárs National University of Singapore
+    - name: Rácz Béla
+      city: New York, USA
+      school: matematikus PhD (Princeton University, USA)
+      work:  
+  - groupid: Ga-csoport (2001-2006)
+    members:
+    - name: Cserép Gergely
+      city: Budapest
+      school: vegyész PhD (ELTE)
+      work: Tudományos munkatárs MTA TTK, SzKI
+    - name: Jankó Zsuzsanna
+      city: Budapest
+      school: Biztosítási és pénzügyi matematika (ELTE)
+      work: Tudományos segédmunkatárs ELTE
+    - name: Kerényi Péter
+      city: Budapest
+      school: biztosítási és pénzügyi matematika (ELTE-TTK)
+      work: Treasury üzletfejlesztő Erste Bank Hungary
+    - name: Nikházy László
+      city: Budapest
+      school: mérnök-informatikus (BME)
+      work: szoftverfejlesztő NNG
+    - name: Pesti Veronika
+      city: 
+      school: általános orvos  (SOTE)
+      work: radiológus rezidens 
+    - name: Szaller Dávid
+      city: Budapest
+      school: fizikus (BME)
+      work: PhD hallgató BME
+  - groupid: Gb-csoport (2001-2006)
+    members:
+    - name: Ács Judit
+      city: Budapest
+      school: villamosmérnök (BME)
+      work: PhD hallgató, számítógépes nyelvész BME, MTA Nyelvtudományi Intézet
+    - name: Bus Norbert
+      city: Párizs, Franciaország
+      school: jel- és képfeldolgozás (Université Paris-Est)
+      work: PhD hallgató Université Paris-Est
+    - name: Dudás-Marx László
+      city: Budapest
+      school: matematikus (ELTE)
+      work: szoftverfejlesztő Scarab Research Group
+    - name: Farkas Ádám László
+      city: Budapest
+      school: fizikus (ELTE)
+      work: Phd hallgató ELTE
+    - name: Györgyi Péter
+      city: Budapest
+      school: alkalmazott matematikus (ELTE)
+      work: fiatal kutató SZTAKI
+    - name: Hannák Gábor
+      city: Bécs, Ausztria
+      school: villamosmérnök (BME, TU München, TU Wien)
+      work: PhD candidate, kutató munkatárs TU Wien
+    - name: Hujter Bálint
+      city: Budapest
+      school: matematikus (ELTE)
+      work: matektanár Budapesti Fazekas Gimnázium
+    - name: Kassay Gábor
+      city: Budapest
+      school: közlekedésmérnök (BME)
+      work: tervező mérnök UVATERV Zrt.
+    - name: Kutas Péter
+      city: 
+      school: matematikus PhD (ELTE, CEU)
+      work: fiatal kutató MTA SZTAKI
+    - name: Radnai András
+      city: Budapest
+      school: matematikus (ELTE)
+      work: szoftverfejlesztő Google
+    - name: Szilágyi Dániel
+      city: Budapest
+      school: matematikai elemző (ELTE)
+      work: matematika magántanár 
+    - name: Szűcs Gábor
+      city: Budapest
+      school: matematikus (ELTE)
+      work: matematikatanár A Gondolkodás Öröme Alapítvány
+    - name: Varga Gábor
+      city: Darmstadt, Németország
+      school: gépészmérnök (BME)
+      work: Mission Analyst Európai Űrügynökség
+    - name: Vincze Erika
+      city: Budapest
+      school: matematikus (BME)
+      work: tranzakcióelemző Allianz
+  - groupid: L-csoport (2002-2006)
+    members:
+    - name: Boda Árpád
+      city: Budapest
+      school: mérnök informatikus (BME)
+      work: szoftverfejlesztő NNG
+    - name: Cserép Máté
+      city: Budapest
+      school: programtervező informatikus (ELTE)
+      work: PhD hallgató ELTE
+    - name: Csóka Győző
+      city: Budapest
+      school: programtervező informatikus (ELTE)
+      work: kutató-fejlesztő munkatárs ETIK
+    - name: Kiss Viktor
+      city: Budapest
+      school: matematikus (ELTE)
+      work: PhD hallgató ELTE
+    - name: Korándi Dániel
+      city: Zürich, Svájc
+      school: matematikus (ELTE, Cambridge)
+      work: posztdoktori kutató EPFL (Lausanne)
+    - name: Lovász László Miklós
+      city: Boston, MA, USA
+      school: matematikus (ELTE, Cambridge)
+      work: PhD hallgató MIT
+    - name: Maródi Mátyás
+      city: 
+      school: politológia, pénzügy (ELTE, BGF)
+      work: Üzletfejlesztési vezető Strongaa Management
+    - name: Peregi Tamás
+      city: Budapest
+      school: mérnök informatikus (BME)
+      work: szoftverfejlesztő NNG
+    - name: Tóth László Márton
+      city: Budapest
+      school: matematikus (ELTE)
+      work: PhD hallgató CEU
+    - name: Vásárhelyi Bálint
+      city: Szeged
+      school: matematika-biológia (ELTE)
+      work: PhD hallgató SzTE TTK
+    - name: Weszelovszki Gábor
+      city: Budapest
+      school: villamosmérnök (BME)
+      work: szoftvertesztelő LogMeIn
+  - groupid: M-csoport (2003-2009)
+    members:
+    - name: Bóra Eszter
+      city: Budapest
+      school: pszichológus, alkalmazott matematikus (ELTE)
+      work:  
+    - name: Danka Miklós
+      city: London, UK 
+      school: Computer Science (Cambridge)
+      work: szoftvermérnök Palantir Technologies 
+    - name: Grósz Dániel
+      city: Pisa, Olaszország
+      school: matematikus (Pisai Egyetem)
+      work:  
+    - name: Kristóf Panna
+      city: 
+      school: alkalmazott matematikus (ELTE)
+      work:  
+    - name: Nagy Dániel
+      city: Budapest
+      school: matematikus PhD (ELTE)
+      work: matematikus MTA Rényi Alfréd Matematikai Kutatóintézet
+    - name: Orosz Ákos
+      city: Nyíregyháza
+      school: mérnökinformatikus (Pannon Egyetem)
+      work: PhD hallgató Pannon Egyetem
+    - name: Szőke Nóra
+      city: Lausanne, Svájc
+      school: matematikus (ELTE)
+      work: PhD hallgató École Polytechnique Fédérale de Lausanne
+    - name: Szűcs Alexandra
+      city: Budapest
+      school: általános orvos (SOTE)
+      work:  
+    - name: Török Balázs
+      city: Budapest
+      school: pszichológia (ELTE)
+      work:  
+    - name: Tossenberger Anna
+      city: Leiden, Hollandia
+      school: matematikus (ELTE, VU Amsterdam)
+      work: Operations Research Consultant ORTEC
+  - groupid: Mc-csoport (2005-2009)
+    members:
+    - name: Berecz Dénes
+      city: Budapest
+      school: mérnök informatikus (BME)
+      work: Szoftverfejlesztő IP Systems Informatikai Kft.
+    - name: Farkas Dániel
+      city: Budapest
+      school: Mechanical Engineering Modelling (BME)
+      work: Szimulációs mérnök eCon Engineering Kft.
+    - name: Fónagy Fanni
+      city: Budapest
+      school: alkalmazott matematika (ELTE)
+      work:  
+    - name: Hegedűs Tamás László
+      city: Budapest
+      school: mérnök informatikus (BME)
+      work: szoftverfejlesztő egyéni vállalkozó
+    - name: Kaposi Benedek
+      city: Zsámbék
+      school: karmester, karvezetés (Liszt Ferenc Zeneművészeti Egyetem, Budapest)
+      work:  
+    - name: Kiss Mátyás
+      city: Budapest
+      school: alkalmazott matematikus (ELTE)
+      work:  
+    - name: Novák László 
+      city: Budapest 
+      school: gazdálkodás menedzsment (Corvinus)
+      work:  
+    - name: Szedlák Máté
+      city: Budapest
+      school: építőmérnök (BME)
+      work:  
+  - groupid: Md-csoport (2005-2010)
+    members:
+    - name: Aujeszky Tamás
+      city: New York City (USA) / Abu Dhabi (Egyesült Arab Emirátusok)
+      school: villamosmérnök (New York University Abu Dhabi)
+      work: PhD hallgató New York University / New York University Abu Dhabi
+    - name: Blázsik Zoltán
+      city: Budapest (és Szeged)
+      school: matematikus (ELTE)
+      work: PhD hallgató ELTE
+    - name: Bradák Tímea
+      city: Budapest
+      school: matematika-informatika (ELTE)
+      work: matematikatanár Közgazdasági Politechnikum
+    - name: Éles András
+      city: Veszprém
+      school: mérnökinformatikus (Pannon Egyetem)
+      work:  
+    - name: Gröger Tímea
+      city: Budapest
+      school: nemzetközi gazdálkodás (BGE)
+      work: Order Management Specialist IT Services Hungary Kft
+    - name: Horváth Balázs
+      city: Budapest
+      school: fizikus (BME)
+      work:  
+    - name: Huszár Kristóf
+      city: Bécs, Ausztria
+      school: matematikus (ELTE)
+      work: PhD hallgató IST Austria, Klosterneuburg
+    - name: Keresztfalvi Tibor
+      city: Basel, Svájc
+      school: Electrical Engineering (ETH Zürich)
+      work:  
+    - name: Kiss Réka
+      city: Budapest
+      school: biztosítási és pénzügyi matematika (Corvinus)
+      work: aktuárius ING Biztosító
+    - name: Kunos Ádám
+      city: Szeged
+      school: matematikus (SZTE)
+      work: PhD hallgató SZTE, Bolyai Intézet
+    - name: Somogyi Ákos
+      city: Budapest
+      school: matematikus (BME)
+      work: Model Review Analyst Morgan Stanley
+    - name: Varga László
+      city: Budapest
+      school: matematikus (ELTE)
+      work: szoftvermérnök Graphisoft SE
+  - groupid: Rozsomákok (2005-2010)
+    members:
+    - name: Bartha Kristóf
+      city: Nyíregyháza
+      school: mechatronika (BME)
+      work:  
+    - name: Berghammer Tamás
+      city: London, UK
+      school: villamosmérnök (BME)
+      work: szoftvermérnök Google
+    - name: Czeller Ildikó
+      city: Budapest
+      school: matematikus (ELTE)
+      work: data scientist Emarsys
+    - name: Damásdi Gábor
+      city: Kiskunfélegyháza
+      school: matematikus (ELTE)
+      work:  
+    - name: Dankovics Attila
+      city: Budapest
+      school: matematikus (ELTE)
+      work:  
+    - name: Frankl Nóra
+      city: Fót
+      school: matematikus (ELTE)
+      work:  
+    - name: Hajdu Ákos
+      city: Eger
+      school: mérnök informatikus (BME)
+      work:  
+    - name: Kovács Noémi
+      city: Budapest
+      school: vegyész (ELTE)
+      work: PhD hallgató ELTE
+    - name: Mihálykó András
+      city: Veszprém
+      school: matematika  (ELTE)
+      work:  
+    - name: Sváb Gergely
+      city: Budapest
+      school: általános orvos (SOTE)
+      work: PhD hallgató SOTE, Orvosi Biokémiai Intézet
+    - name: Ván Bálint
+      city: Budapest
+      school: Data Science (Barcelona Graduate School of Economics)
+      work: kutatási referens Nemzetgazdasági Minisztérium
+    - name: Weisz Ágoston
+      city: Budapest
+      school: matematikus (ELTE)
+      work:  
+  - groupid: Kacagók (2007-2011)
+    members:
+    - name: Ágoston Tamás
+      city: Budapest
+      school: matematikus (ELTE)
+      work: PhD hallgató ELTE
+    - name: Beke Lilla
+      city: Budapest
+      school: energetikai mérnök (BME)
+      work:  
+    - name: Böröndy Áron
+      city: 
+      school: Robotika (ETH Zürich)
+      work:  
+    - name: Farkas Dániel Gergely
+      city: Budapest
+      school: fizikus (BME)
+      work:  
+    - name: Gyarmati Máté
+      city: Pécs
+      school: matematikus (ELTE)
+      work:  
+    - name: Kovacsics Balázs
+      city: Budapest
+      school: járműmérnök (BME)
+      work:  
+    - name: Németh Ádám
+      city: Szombathely
+      school: matematikus (ELTE)
+      work:  
+    - name: Ódor Gergely
+      city: Budapest
+      school: matematikus (MIT (Cambrige, USA))
+      work:  
+    - name: Remete László
+      city: Debrecen
+      school: matematikus (Debreceni Egyetem)
+      work:  
+    - name: Sándor András
+      city: Budapest
+      school: matematikus (ELTE)
+      work:  
+  - groupid: T-csoport (2008-2013)
+    members:
+    - name: Csuka Róbert
+      city: Budakeszi
+      school: villamosmérnök  (BME)
+      work:  
+    - name: Fodor András
+      city: Budapest
+      school: programtervező informatikus (ELTE)
+      work:  
+    - name: Gyéresi Hunor
+      city: Marosvásárhely, Románia
+      school: mechatronika (Sapientia EMTE)
+      work: informatika és IKT tanár Művészeti Líceum
+    - name: Havasi Marton
+      city: Budapest
+      school: Computer Science (Cambridge)
+      work: Gyakornok Facebook Inc.
+    - name: Janzer Olivér
+      city: Cambridge, Anglia és Budapest
+      school: matematikus (Cambridge)
+      work:  
+    - name: Kékesi Dóra
+      city: Budapest
+      school: mérnökinformatikus (BME)
+      work: Webfejlesztő Shiwaforce Zrt.
+    - name: Kristóf Kitti
+      city: Budapest
+      school: mérnökinformatikus (PPKE ITK)
+      work:  
+    - name: Leitereg András
+      city: Szentendre
+      school: programtervező Informatikus  (ELTE)
+      work:  
+    - name: Nagy Robert
+      city: Budapest
+      school: matematika (Cambridge)
+      work:  
+    - name: Nemecskó István 
+      city: Budapest
+      school: matematika (ELTE)
+      work:  
+    - name: Zilahi Tamás
+      city: Budapest
+      school: matematika (Cambridge)
+      work:  Morgan Stanley
+  - groupid: Cs-csoport (2009-2014)
+    members:
+    - name: Burian Lóránt
+      city: Budapest
+      school: gépészmérnök (BME)
+      work: Tervezőmérnök BME FRT
+    - name: Fehér Zsombor
+      city: Oxford (UK)
+      school: matematikus (ELTE)
+      work:  
+    - name: Göde Ábel
+      city: 
+      school: matematikus (ELTE)
+      work:  
+    - name: Kecskés Boglárka
+      city: Érd
+      school: matematika-magyar tanári  (ELTE)
+      work:  
+    - name: Leitereg Miklós
+      city: Szentendre
+      school: alkalmazott matematika (ELTE)
+      work:  
+    - name: Ambrus Weisz
+      city: Zurich, Switzerland
+      school: Computer Science (Cambridge)
+      work: Software Engineer Google
+  - groupid: S-csoport (2009-2014)
+    members:
+    - name: Ágoston Péter
+      city: Budapest
+      school: matematikus (ELTE)
+      work: matematikus PhD-hallgató ELTE
+    - name: Homonnay Bálint
+      city: 
+      school:   
+      work:  
+    - name: Kabos Eszter
+      city: Budapest
+      school: Economics and Mathematics (Cambridge)
+      work: tanácsadó McKinsey and Company
+    - name: Kóródi Brúnó Zoltán
+      city: Miskolc
+      school:   
+      work:  
+    - name: Maga Balázs
+      city: Nyíregyháza
+      school: matematikus (ELTE)
+      work:  
+    - name: Németh Gergely
+      city: Budapest
+      school: mérnökinformatikus (BME)
+      work:  
+    - name: Papp Roland
+      city: 
+      school: Natural Sciences (Cambridge)
+      work: Analyst, Special Investments Group Credit Suisse
+    - name: Sagmeister Ádám
+      city: Budapest
+      school: matematika (ELTE)
+      work:  
+    - name: Tőri Tünde
+      city: Budapest
+      school:   
+      work:  
+  - groupid: U-csoport (2009-2013)
+    members:
+    - name: Bajnok Eszter
+      city: Berlin, Németország
+      school: nemzetközi gazdálkodás (Corvinus)
+      work: Operations Intern - Inhouse Consulting Wayfair.de
+    - name: Bozsik Márton
+      city: Budapest
+      school: mechatronikai mérnök (BME)
+      work:  
+    - name: Dobra Gábor
+      city: Kozármisleny
+      school: mérnökinformatikus (BME)
+      work:  
+    - name: Gujgiczer Anna
+      city: Budapest
+      school: mérnökinformatikus (BME)
+      work:  
+    - name: Hegedüs Norina
+      city: Budapest
+      school: gyógypedagógus (ELTE)
+      work:  
+    - name: Jakucs Rita
+      city: Budapest
+      school: gyógypedagógus (ELTE)
+      work:  tanul
+    - name: Kovács Bence Zoltán
+      city: Rotterdam, Hollandia
+      school: pénzügy-számvitel (Corvinus)
+      work:  
+    - name: Varga Dániel
+      city: Budapest
+      school: mérnökinformatikus (BME)
+      work:  
+  - groupid: Va-csoport (2010-2015)
+    members:
+    - name: Csanálosi Balázs
+      city: Budapest
+      school:   
+      work:  
+    - name: Kátay Tamás
+      city: Budapest
+      school: matematika (ELTE)
+      work:  
+    - name: Vályogos Anna
+      city: Cambridge, UK
+      school: Economics (Cambridge)
+      work:  
+    - name: Zatik Vilmos
+      city: Debrecen
+      school: általános orvos (SOTE)
+      work:  
+  - groupid: Vb-csoport (2010-2015)
+    members:
+    - name: Stark Patrícia
+      city: Veszprém (Budapest)
+      school: gazdaság- és pénzügy-matematikai elemzés (Corvinus)
+      work:  
+    - name: Trón Réka
+      city: London, UK
+      school: Biological Sciences (Imperial College London)
+      work: Head of Operations - Europe Circling Europe
+  - groupid: Zsa-csoport (2012-2017)
+    members:
+    - name: Andó Angelika
+      city: Szeged
+      school:   
+      work:  
+    - name: Bege Áron 
+      city: Budapest
+      school:   
+      work:  
+    - name: Radnai Bálint
+      city: Várpalota
+      school: mérnök-informatikus (BME)
+      work:  
+  - groupid: Zsb-csoport (2012-2017)
+    members:
+    - name: Mrázik Tamás
+      city: Budapest
+      school: villamosmérnök (BME)
+      work: Programozó gyakornok Aitia International Zrt
+  - groupid: Bébé-csoport (2012-2018)
+    members:
+    - name: Kerekes Bálint
+      city: Szigetszentmiklós
+      school: építész (University of Bath)
+      work:  
+    - name: Kovács Kitti 
+      city: Budapest/Coventry, Anglia 
+      school: Data Science (University of Warwick)
+      work:  
+    - name: Kulcsár Gergő
+      city: Nyíregyháza
+      school:   
+      work:  
+  - groupid: Medve-csoport (2012-2018)
+    members:
+    - name: Imolay András
+      city: Budapest
+      school: matematikus (ELTE)
+      work:  
+  - groupid: Beluga-csoport (2013-2018)
+    members:
+    - name: Dobák Dániel
+      city: Budapest
+      school: matematikus (Cambridge)
+      work:  
+    - name: Farkas Dorka
+      city: Budapest
+      school:   
+      work:  
+    - name: Pituk Gábor
+      city: Cambridge, Anglia
+      school: Computer Science  (Cambridge)
+      work:  
+    - name: Stadler Domonkos
+      city: Budapest
+      school:   
+      work:  
+    - name: Tokovics Dávid
+      city: Kecskemét
+      school:   
+      work:  
+    - name: Veres Tamás
+      city: Gyöngyös
+      school:   
+      work:  
+  - groupid: Okapi-csoport (2013-2018)
+    members:
+    - name: Marozsák Tóbiás
+      city: Budapest
+      school:   
+      work:  
+    - name: Matolcsi Dávid
+      city: Budapest
+      school:   
+      work:  

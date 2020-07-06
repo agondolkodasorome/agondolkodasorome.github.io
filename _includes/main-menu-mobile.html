@@ -1,10 +1,9 @@
 
+<!--
 <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
-	<ul>
-		<li><a href="google.com" class="{% if page.url == '/' %}current{% endif %}">Google</a></li>
-	</ul>
+	<li style="color: white; font-variant: small-caps;">Group header</li>
     <li><a href="{{site.baseurl}}/services/" class="{% if page.url contains 'services' %}current{% endif %}">Services</a></li>
     <li><a href="{{site.baseurl}}/team/" class="{% if page.url contains 'team' %}current{% endif %}">Team</a></li>
     <li><a href="{{site.baseurl}}/testimonials/" class="{% if page.url contains 'testimonials' %}current{% endif %}">Testimonials</a></li>
@@ -12,7 +11,7 @@
   </ul>
 </div>
 
-
+-->
 
 
 <!--<div id="main-menu" class="main-menu">-->
@@ -51,13 +50,19 @@
 -->
 
 
-<!--
-<script src="/assets/js/scripts.js"></script>
+
+<!--<script src="/assets/js/scripts.js"></script>-->
 <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
 	{% for item in site.data.navigation.toc %}
       {% if item.sublinks[0] %}
-		<li class="dropdown">
+        <li style="color: white; font-variant: small-caps;">{{item.title}}</li>
+        
+        {% for entry in item.sublinks %}
+		  <li><a href="{{site.baseurl}}/{{entry.url}}/">{{entry.title}}</a> </li>
+		{% endfor %}
+        
+		<!--<li class="dropdown">
 			<a href="#" class="dropdown-toggle otherProgLangs" data-toggle="dropdown" onclick="myFunction('{{item.id}}')" id="btn-{{item.id}}">{{item.title}}<b class="caret"></b></a>
 			
 			<ul class="dropdown-menu dropdown-content" id="dropdown-{{item.id}}">
@@ -66,7 +71,7 @@
 				{% endfor %}
 				
 			</ul>
-    	</li>
+    	</li> -->
       {% else %}
         <li><a href="{{site.baseurl}}/{{item.url}}/" class="{% if page.url == '/' %}current{% endif %}">{{item.title}}</a></li>
       {% endif %}
@@ -76,4 +81,3 @@
   </ul>
 </div>
 
--->
