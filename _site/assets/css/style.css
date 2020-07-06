@@ -2305,7 +2305,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 .page { display: flex; min-height: 100vh; flex-direction: column; }
 .page .wrapper { flex: 1; }
 
-.header { height: 50px; color: #27aae1; background-color: #ffffff; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2); }
+.header { height: 50px; color: #222222; background-color: #ffffff; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2); }
 .header .container { display: flex; justify-content: space-between; align-items: center; }
 .header .header-social { height: inherit; display: none; }
 @media (min-width: 992px) { .header .header-social { display: block; } }
@@ -2536,8 +2536,8 @@ ul.social li a span { font-size: 24px; }
 .service-single h1 { font-size: 3rem; font-family: "Noto Sans", Arial, Helvetica, sans-serif; color: #222222; margin-bottom: 25px; text-transform: uppercase; }
 
 .content h1 { color: #222222; text-transform: uppercase; margin-top: 30px; margin-bottom: 25px; }
-.content h3 { color: #27aae1; font-variant: small-caps; font-weight: bold; margin-top: 22px; margin-bottom: 15px; }
-.content h4 { color: #e77919; font-variant: small-caps; font-weight: bold; margin-top: 18px; margin-bottom: 12px; }
+.content h2 { color: #27aae1; font-variant: small-caps; font-weight: bold; margin-top: 22px; margin-bottom: 15px; }
+.content h3 { color: #e77919; font-variant: small-caps; font-weight: bold; margin-top: 18px; margin-bottom: 12px; }
 
 .service-summary { display: flex; align-items: flex-start; }
 .service-summary .service-image { flex: 0 0 100px; margin-right: 10px; }

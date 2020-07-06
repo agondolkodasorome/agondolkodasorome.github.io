@@ -14,14 +14,14 @@ Our aim is, naturally, to achieve the goals set out in the founding document of 
 
 The Foundation wishes to help students get the most out of their talents, achieving their goals and being of help to others. It also supports those helping students towards the same aims.
 
-### Our current area of activity
+## Our current area of activity
 
 Our main objectives are to maintain the weekend camp program, initiated by Lajos Pósa in 1988, at its current quality standards, as well as ensuring that MaMuT camps, held annually since 2004, run smoothly.
 
 We find it very important to “expand” both programs, in the sense that we want to make them known and available for as many students as possible. We also seek to get more teachers involved, so that they may organize similar camps with or without our support.
 Apart from these, we run university courses on certain aspects of our methodology (at ELTE and BSM), and we hold extracurricular classes in schools.
 
-### Further goals and activities
+## Further goals and activities
 
 These are also mentioned in the founding document.
 
@@ -33,7 +33,7 @@ We must consider the possibility of expanding our field of activities, should ad
  *   Organizing and supporting non-mathematical camps by working with qualified teachers from other disciplines.
  *   Building connections with foreign experts of talent development and management. Organizing foreign-language camps for international students in Hungary or abroad.
 
-### Long-term goals
+## Long-term goals
 
 Our long-term goals include the following points:
 

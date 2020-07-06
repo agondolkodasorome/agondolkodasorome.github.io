@@ -9,7 +9,7 @@ bodyClass: page-home
 
 In the autumn of 2016 we launched an experimental series of programs with the name of TechCamp, which we will present here below.
 
-### Motivation
+## Motivation
 
 The education of computer science receives little attention: only some programming skills at most are taught in school and only algorithms appear during competitions.
 
@@ -17,13 +17,13 @@ Though these are undoubtedly important it is often much more important to learn 
 
 <img src="/assets/images/techcamp1.jpg" width="100%" />
 
-### Participants
+## Participants
 
 The name of the first group is “Almásderes,” keeping the technological tradition of naming the first “version” with the first letter of the Alphabet. The first group received 31 applications for the age group of 9th to 11th grade – mostly but not only composed of math-camp participants – surpassing the originally planned 15. Of these, in the end we admitted 19 students.
 
 The main objective of the students during the course of the year was to plan and implement a project by themselves. The students were allowed a free hand in designing and choosing their projects, thus being able to think freely and creatively, choosing a topic which they are really interested in. It was important in this camp as well, that the projects be useful: either for the creator of their environment. Through the design and implementation of these projects, the participants will acquire the way of thinking necessary for becoming efficient and independent creators, while also developing the basics of software engineering and project management.
 
-### What do the events look like?
+## What do the events look like?
 
 Opening weekend camp. The aim of the camp is that everyone choose a project according to their interests. Already in the camps they start working on their solutions with the guidance of mentors.
 
@@ -35,7 +35,7 @@ Closing weekend camp. At the end of the school year, which is also the deadline 
 
 <img src="/assets/images/techcamp2.jpg" width="100%" />
 
-### Mentors
+## Mentors
 
 Apart from the camp leaders (Miklós Danka and Gábor Szűcs,) these mentors also play an important role in the camps: Ildikó Czeller, Géza Csenger, András Eisenberger, Péter Juhász and László Nikházy.
 

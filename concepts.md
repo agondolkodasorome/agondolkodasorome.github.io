@@ -8,7 +8,7 @@ The mathematical programs in our camps are unified by the teachers’ shared bel
 
 The didactical foundations of our camps were laid by Lajos Pósa, one the most prominent proponents of the method. He introduced most teachers and all the assistants working in our camps to the mysteries of this teaching style and paradigm. Each of our weekend camps is led by one of his former students.
 
-### What is the essence of this method?
+## What is the essence of this method?
 The most important aim is to teach students how to think independently: we try to incite them to use their creativity and imagination, and to come up with their own ideas instead of just reciting formulas, methods or theorems.
 
 <p style="text-align: center;"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VGG0uMjFKFg" frameborder="0" allowfullscreen></iframe>

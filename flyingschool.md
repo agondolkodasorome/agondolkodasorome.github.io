@@ -16,4 +16,4 @@ In the second part, starting autumn 2017 we organize a two year long, intense, t
 
 <br/>
 
-### What they said about us
+## What they said about us

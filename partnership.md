@@ -24,6 +24,6 @@ The possibilities for support are manyfold. Many of our former students contribu
 
 Companies also support our activities. This support ranges from offering services, office space for free, to considerable financial support.
 
-### Our Supporters
+## Our Supporters
 
 

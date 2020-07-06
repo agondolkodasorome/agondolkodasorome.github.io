@@ -10,7 +10,7 @@ The history of MaMuT began in 2004, when it didn’t have this name yet. Up unti
 
 Apart from the below listed information the links on the right further help navigation.
 
-### MaMuT
+## MaMuT
 
 The Camp of Mathematical Amusements (translated and abbreviated MaMuT) is a summer vacation camp, where 10-15 year old students with outstanding abilities are invited. Their talents are measured via nationally acclaimed mathematics competitions, based on which they can receive an invitation.
 
@@ -28,7 +28,7 @@ Participation is free of charge for the children, since we wish to insure that a
 
 The professional development of teachers also has a place among our camp traditions, which we managed to uphold in recent years. We only invite a few (8-10 people) to take part, but we wish to give them as much as possible. They have the possibility to consult their teachers before and after class and offer to help them in their work. They can also do their share of organizing extra-curricular programs or some other task of the youth-leaders.
 
-### MaMuT2
+## MaMuT2
 
 Starting with 2013, we also provide a possibility for 11th and 12th graders to take part in a MaMuT-esque camp. This camp is in the spirit of the camp of Kisinóc.
 

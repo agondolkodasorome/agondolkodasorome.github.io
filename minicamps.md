@@ -8,7 +8,7 @@ In the autumn of 2016 we launched an experimental program. These were mini-camps
 
 During the course of the year, we met the children once a month.
 
-### Motivation
+## Motivation
 
 One of the most basic tasks of school is to develop the students’ creativity and problem-solving skills. There is little room for this during the tightly bound framework of a conventional lesson.
 
@@ -16,7 +16,7 @@ We organize our traditional weekend camps for students from 7th to 11th grade. T
 
 We decided try out a new construct. We tried to find an opportunity which is compatible with school life. The program we announced takes place twice a month on a weekday. Although the charm of spending time together in shared accomodation at a camp is not present, the more frequent meetings allow for a more regular workload. This is supported by the parental feedback we received.
 
-### What happens at a minicamp?
+## What happens at a minicamp?
 
 The maths program has a defining role at our events as we dedicate a schoolday’s worth of time to mathematics. There is also time for rest, relaxation and playing games together.
 
@@ -25,26 +25,6 @@ During the day the math program runs with one longer and several shorter breaks.
 During the long breaks, the students have time to have their lunch brought from home, as well as to play games with others.
 
 We found out based on the many letters from the children, that they participate in the events of the minicamps with great joy and like to spend time on the interesting problems there. They appreciate the fact that there is time to really immerse oneself in a problem. The possibility of meeting and sharing thoughts with similarly enthusiastic children who like valuable ideas is also to their liking.
-
-### Our current mini-camp
-
-2018-2019 Emerald and Saphire groups
-
-    Course leader: Judit Szenyovszky
-    Location: The Zipernowsky house of Sciences and Arts
-    
-
-### Our camps from recent years
-
-2017-2018 Diamonds and Hearts groups
-
-    Course leader: Judit Szenyovszky
-    Location: MTA Rényi Alfréd Institute of Mathematical Research
-    
-2016-2017 Clubs and Spades groups
-
-    Course leader: Gábor Szűcs
-    Location: center of the Hungarian Bridge Society
 
 
 

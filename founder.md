@@ -16,10 +16,10 @@ He launched the now famous maths camps in 1988. It all started with a single gro
 He had always worked towards making the standard maths curriculum more interesting and exciting for children. At the Eötvös University he ran a 3-semester course for prospective maths teachers on “How to teach talented students?” based on his own experiences, but always emphasizing how to adapt his philosophy to the classroom.
 Helping kids belonging to the Hungarian minorities in adjacent countries were always one of his top priority. He has constantly sought ways, and is still very active, to build new cross-boundary connections. The weekend camps have always had many participants from Serbia, Slovakia, Romania, and the Ukraine, but talented Hungarian kids are welcome from any part of the world. He frequently brings these students to various other camps in Hungary and always pays special attention to them.
 
-### Mathematical achievments
+## Mathematical achievments
 Pósa was introduced to Paul Erdos when he was only in elementary school, who has been known for supporting young talents with great kindness and expertise. Erdos was also the co-author of his first mathematical paper, written when Pósa was only 13 (and thus he obtained the Erdos number 1 at a rather young age). He went on to publish many important results on graph theory. Among other things, he proved the existence of Hamiltonian cycles under weaker conditions than in Dirac’s famous theorem. He proved the conjecture of Erdos and Rényi on the almost sure existence of Hamiltonian cycles in random graphs having cnlog n edges and n vertices. Together with Erdos they established the Erdos-Pósa theorem.
 
-### Awards
+## Awards
 
 * 1989 – „For the children” award
 * 1994 – Beke Manó memorial prize of the Bolyai János Mathematical Society

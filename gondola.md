@@ -4,14 +4,14 @@ layout: simplepage
 bodyClass: page-home
 ---
 
-### History and purpose of the Gondola project
+## History and purpose of the Gondola project
 
 The focus of the Gondola program is not the unusually talented, but disadvantaged students. We would like to offer them the possibility of continuing their studies at a secondary school with a quality adapted to their skills. Our Partner in this endeavour is the extracurricular tutoring network at Bátonyterenye whose two tutoring schools we collaborate with. We’ve been working with the children of Bátonyterenye since the beginning and with those of Lucfalva since autumn of 2018.
 
 <img src="/assets/images/gondola1.jpg" width="100%" />
 
 
-### Our work process
+## Our work process
 
 The three main pillars of the pedagogic program of Gondola are the following:
 
@@ -25,13 +25,13 @@ The three main pillars of the pedagogic program of Gondola are the following:
 Apart from the methods discussed above, we also offer other ways of support by giving donations in firewood or providing those in need with the fees of the internet necessary for Skype-lessons. We also support special tutoring events lead by experts who deal with children with reading or writing difficulties.
 Optimally we start working with children from 4th or 5th grade so that they may be prepared for secondary school entry exams.
 
-### Who are we?
+## Who are we?
 
 The three main organizers and teachers of the program are: Balázs Hetei, mathematician, teacher. Krisztián Mózes, leader of LogIQa Stúdió, teacher. Frigyes Janzer, business leader, founder and main organizer of the program. Apart from them, about 5 to 6 fresh graduates, university and secondary school students are teaching. The scholarship of two of our children was financed by supportive families. Accommodation during our camps in Budapest is also always offered by supporting families.
 
 <img src="/assets/images/gondola3.jpg" width="100%" />
 
-### Where are were headed?
+## Where are were headed?
 
 Our most important short- and medium-term goals:
 
@@ -40,18 +40,18 @@ Our most important short- and medium-term goals:
 
 To complete our set goals we would require (apart from the one-time cost of the school building at Lucfalva) an annual imbursement of 1.5 million HUF.
 
-### How to reach us
+## How to reach us
 
-#### Facebook-page
+### Facebook-page
 
 The Facebook page of the Gondola program: [https://www.facebook.com/gondolaprogram](https://www.facebook.com/gondolaprogram)
 
-#### Questions
+### Questions
 
 Should you have any questions or wish to help, you can contact the organizer of the program via email or phone:
 frigyes kukac prospero pont hu or +36 30 549 8724
 
-#### Support
+### Support
 
 The program’s bank sub account: 11600006-00000000-80400381 (Erste Bank).
 We also hereby thank you for your support.

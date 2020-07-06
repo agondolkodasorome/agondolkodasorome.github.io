@@ -8,7 +8,7 @@ bodyClass: page-home
 
 The first weekend camp was organized by Lajos Pósa in 1988. Since then camps are organized continuously. Originally there wasn’t a fixed location and the camps took place all over the country. For a long time however, all camps have been taking place in the Collage of the Primary School at Tapolcsányi utca.
 
-### The children of the camps
+## The children of the camps
 
 Although we try to assign children of the same age in a group, students of consecutive years occasionally share a group.
 
@@ -19,7 +19,7 @@ The number of participants usually starts between 25 and 35. Lately we always tr
 
 A group usually takes part in about 10 to 13 weekend camps with 2 occasionally 3 every year. For the most part, the camps take place from Friday afternoon, to Sunday afternoon, with some extraordinarily long ones in school breaks, which we try to arrange to be 3-4 days long.
 
-### Group work
+## Group work
 
 The children in the camps spend their time thinking in small groups of 1 to 4 people.
 
@@ -29,7 +29,7 @@ The work done by the groups is supervised via regular visits by the camp leader 
 
 It is important for the camp leader to be up to date with the progress of each group, since then they can adjust the speed and difficulty of the camp. Naturally it is no wonder that there are discrepancies from the originally set plan of the weekend according to the needs and abilities of the students.
 
-### The typical itinerary of a weekend camp
+## The typical itinerary of a weekend camp
 
 The camps usually take place from Friday, 4:30 pm to Sunday 2 pm. Very intense mental activity is characteristic of the camps, amounting to around 14 hours of total time purely spent on mathematics (counting in 60 minute hours.) This might seem a lot, which it is. However, since the group assembles only twice, maybe three times a year, the short time available has to be put to full use, hence the camp program being so intense.
 
@@ -39,13 +39,13 @@ The program on Saturday starts at 9 am and lasts until 1 pm with usually a 30 mi
 
 We try to start Sunday’s program at 9 am as well. However, in case of excessive fatigue, the beginning might be postponed. During the morning the program proceeds with the inclusion of a 30 minute break until 2 pm.
 
-### In between camps
+## In between camps
 
 The members of the groups are also kept occupied in between camps. After each camp the participants receive a document containing a thematically ordered list of all problems which they need to know the solution to for the next camp. The revision of this summary, i.e. said document, is crucial task. Since the following camp builds upon the previous ones, everyone has to know the solution to these problems instantly. It is also important for the students to know the connections between different problems, which are also highlighted in the document. The section “Important concepts” is of paramount importance as it is a collection of all the ways of thinking which are highlighted during the camps, many of which do not even appear in the course of a conventional school curriculum.
 
 In between two camps a number of homework problems are assigned, usually around 10-12, some of which are optional. The homework regularly contains extremely difficult problems as well. Lately, homework is to be completed in writing, i.e. the students have to send the solutions via email.
 
-### Location
+## Location
 
 The camps are set in the College of the Tapolcsányi Primary School. The 6-8 bunk-bedded dormitories also often serve as the work-space for the small groups. One of the dormitories contains a chalkboard, where we hold our general discussions together. This is the grand study hall, an important setting of camp life.
 
@@ -53,7 +53,7 @@ During the thinking sessions, the usually 8-10 small groups all occupy different
 
 There are no prepared meals in the camps since the building doesn’t offer such a service. This came as a surprise for the parents at first, although, based on many years of experience, this is not the cause for inconvenience. With the help of 3 refrigerators, 3 microwave owens and a lofty cantina, the issue of breakfast, lunch and dinner is resolved with ease.
 
-### Financials
+## Financials
 
 Participation is completely free for the children.
 
