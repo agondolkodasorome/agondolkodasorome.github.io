@@ -404,7 +404,7 @@ alumni:
       school: mérnök-informatikus (BME)
       work: szoftverfejlesztő NNG
     - name: Pesti Veronika
-      city: nan
+      city: 
       school: általános orvos  (SOTE)
       work: radiológus rezidens 
     - name: Szaller Dávid
@@ -446,7 +446,7 @@ alumni:
       school: közlekedésmérnök (BME)
       work: tervező mérnök UVATERV Zrt.
     - name: Kutas Péter
-      city: nan
+      city: 
       school: matematikus PhD (ELTE, CEU)
       work: fiatal kutató MTA SZTAKI
     - name: Radnai András
@@ -496,7 +496,7 @@ alumni:
       school: matematikus (ELTE, Cambridge)
       work: PhD hallgató MIT
     - name: Maródi Mátyás
-      city: nan
+      city: 
       school: politológia, pénzügy (ELTE, BGF)
       work: Üzletfejlesztési vezető Strongaa Management
     - name: Peregi Tamás
@@ -530,7 +530,7 @@ alumni:
       school: matematikus (Pisai Egyetem)
       work:  
     - name: Kristóf Panna
-      city: nan
+      city: 
       school: alkalmazott matematikus (ELTE)
       work:  
     - name: Nagy Dániel
@@ -702,7 +702,7 @@ alumni:
       school: energetikai mérnök (BME)
       work:  
     - name: Böröndy Áron
-      city: nan
+      city: 
       school: Robotika (ETH Zürich)
       work:  
     - name: Farkas Dániel Gergely
@@ -790,7 +790,7 @@ alumni:
       school: matematikus (ELTE)
       work:  
     - name: Göde Ábel
-      city: nan
+      city: 
       school: matematikus (ELTE)
       work:  
     - name: Kecskés Boglárka
@@ -812,7 +812,7 @@ alumni:
       school: matematikus (ELTE)
       work: matematikus PhD-hallgató ELTE
     - name: Homonnay Bálint
-      city: nan
+      city: 
       school:   
       work:  
     - name: Kabos Eszter
@@ -832,7 +832,7 @@ alumni:
       school: mérnökinformatikus (BME)
       work:  
     - name: Papp Roland
-      city: nan
+      city: 
       school: Natural Sciences (Cambridge)
       work: Analyst, Special Investments Group Credit Suisse
     - name: Sagmeister Ádám
