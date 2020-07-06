@@ -13,9 +13,28 @@ layout: default
       </div>
     <!--</div>-->
           
+      
       <div class="container pb-6">
         <div class="row">
           {% for item in site.data.supporters.supporters %}
+          <div class="col-4 col-md-3">
+            
+            <a href="{{item.url}}">
+              <img src="{{site.baseurl}}/assets/images/supporters/{{item.image}}" width="100%" alt="{{item.name}}"/>
+            </a>
+            
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      
+      <div class = "content">
+          <h3> Our supporters in previous years </h3>
+      </div>
+          
+      <div class="container pb-6">
+        <div class="row">
+          {% for item in site.data.supporters.oldsupporters %}
           <div class="col-4 col-md-3">
             
             <a href="{{item.url}}">
