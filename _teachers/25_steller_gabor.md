@@ -1,5 +1,5 @@
 ---
-name: 'Kartal Nagy'
+name: 'Gábor Steller'
 image: '/images/team/StellerGabor.jpg'
 jobtitle: 'Flying School teacher, summer camp group leader'
 ---
