@@ -2565,3 +2565,5 @@ ul.social li a span { font-size: 24px; }
 .dropdown-content a:hover { background-color: #ddd; }
 
 .show { display: block; }
+
+ul ul { list-style-type: none; padding-left: 0; }
