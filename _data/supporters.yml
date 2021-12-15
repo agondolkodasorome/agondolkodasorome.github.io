@@ -2,9 +2,9 @@ supporters:
   - name: bsme
     image: red-bsme-logo-final-small.jpg
     url: https://bsmeducation.com/
-  - name: logmein
-    image: logmein-logo-big.png
-    url: https://logmein.hu/
+  - name: sonrisa
+    image: sonrisa.png
+    url: http://www.sonrisa.hu/
   - name: graphisoft
     image: graphisoft-logo-black.png
     url: http://www.graphisoft.hu/
@@ -20,45 +20,48 @@ supporters:
   - name: otp
     image: otp1.jpg
     url: http://www.otpbank.hu/
-  - name: mgyosz
-    image: mgyosz.png
-    url: http://www.mgyosz.hu/hu/index.php
   - name: tigra
     image: TIGRA_logo.jpg
     url: http://www.tigra.hu/
+  - name: Cognex
+    image: Cognex_Logo.jpg
+    url: https://www.cognex.com/en-hu/company/contact-us
   - name: prospero
     image: ProsperoWWW.jpg
     url: http://www.prospero.hu/
+  - name: morganstanley
+    image: morgan_stanley.jpg
+    url: http://www.morganstanley.com/about-us/global-offices/hungary/
+  - name: hiflylabs
+    image: hiflylabs.png
+    url: http://hiflylabs.hu/
+  - name: rubiks
+    image: Rubik.png
+    url: http://www.rubiks-rcsa.com/
+  - name: rackforest
+    image: Rackforest-logo.jpg
+    url: http://www.rackforest.hu/
+oldsupporters:
+  - name: mgyosz
+    image: mgyosz.png
+    url: http://www.mgyosz.hu/hu/index.php
+  - name: logmein
+    image: logmein-logo-big.png
+    url: https://logmein.hu/
   - name: invitech
     image: invitech-logo_rgb_normal.jpg
     url: https://www.invitech.hu/
   - name: emarsys
     image: EM-Logo-Horizontal-Color-RGB_002.png
     url: https://www.emarsys.com/en-uk/
-  - name: hiflylabs
-    image: hiflylabs.png
-    url: http://hiflylabs.hu/
-  - name: morganstanley
-    image: morgan_stanley.jpg
-    url: http://www.morganstanley.com/about-us/global-offices/hungary/
-  - name: rubiks
-    image: Rubik.png
-    url: http://www.rubiks-rcsa.com/
-  - name: rotary
-    image: rotary.png
-    url: http://www.rotarytaban.hu/
-  - name: sonrisa
-    image: sonrisa.png
-    url: http://www.sonrisa.hu/
-  - name: rackforest
-    image: Rackforest-logo.jpg
-    url: http://www.rackforest.hu/
-oldsupporters:
   - name: jabil
     image: jabil.png
     url: http://www.jabil.hu/hu/
   - name: logiscool
     image: logiscool-header-logo.png
     url: https://www.logiscool.com/
+  - name: rotary
+    image: rotary.png
+    url: http://www.rotarytaban.hu/
     
     
