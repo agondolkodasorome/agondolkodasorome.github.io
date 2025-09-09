@@ -284,7 +284,6 @@ DEPENDENCIES
   jekyll-environment-variables
   jekyll-feed (~> 0.12)
   jekyll-menus
-  rexml (>= 3.3.9)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

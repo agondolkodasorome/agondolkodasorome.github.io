@@ -36,6 +36,5 @@ gem 'jekyll-environment-variables'
 #end
 
 gem "bundler", "~> 2.3"
-gem "rexml", ">= 3.3.9"
 #end
 
