@@ -28,10 +28,12 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-gem "bundler", "~> 2.3"
 
 #gem 'github-pages'
 gem 'jekyll-environment-variables'
 #group :jekyll_plugins do
 #   gem "jekyll-menus"
 #end
+
+gem "bundler", "~> 2.3"
+gem "rexml", ">= 3.3.9"
