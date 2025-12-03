@@ -2,12 +2,21 @@ supporters:
   - name: bsme
     image: red-bsme-logo-final-small.jpg
     url: https://bsmeducation.com/
+  - name: jane-street
+    image: jane-street-logo.png
+    url: https://www.janestreet.com
   - name: sonrisa
     image: sonrisa.png
     url: http://www.sonrisa.hu/
+  - name: qrt
+    image: QRT-logo.png
+    url: https://www.qube-rt.com/ 
   - name: graphisoft
-    image: graphisoft-logo-black.png
+    image: graphisoft-logo.png
     url: http://www.graphisoft.hu/
+  - name: realogic
+    image: realogic.jpg
+    url: https://en.agondolkodasorome.hu/partnership/
   - name: mta
     image: mta2.png
     url: http://mta.hu/
@@ -23,25 +32,22 @@ supporters:
   - name: tigra
     image: TIGRA_logo.jpg
     url: http://www.tigra.hu/
-  - name: Cognex
-    image: Cognex_Logo.jpg
-    url: https://www.cognex.com/en-hu/company/contact-us
   - name: prospero
     image: ProsperoWWW.jpg
     url: http://www.prospero.hu/
   - name: morganstanley
-    image: morgan_stanley.jpg
+    image: MS_logo.png
     url: http://www.morganstanley.com/about-us/global-offices/hungary/
   - name: hiflylabs
     image: hiflylabs.png
     url: http://hiflylabs.hu/
-  - name: rubiks
-    image: Rubik.png
-    url: http://www.rubiks-rcsa.com/
   - name: rackforest
     image: Rackforest-logo.jpg
     url: http://www.rackforest.hu/
 oldsupporters:
+  - name: Cognex
+    image: Cognex_Logo.jpg
+    url: https://www.cognex.com/en-hu/company/contact-us
   - name: mgyosz
     image: mgyosz.png
     url: http://www.mgyosz.hu/hu/index.php
@@ -60,6 +66,9 @@ oldsupporters:
   - name: logiscool
     image: logiscool-header-logo.png
     url: https://www.logiscool.com/
+  - name: rubiks
+    image: Rubik.png
+    url: http://www.rubiks-rcsa.com/
   - name: rotary
     image: rotary.png
     url: http://www.rotarytaban.hu/
