@@ -6,7 +6,7 @@ bodyClass: page-home
 
 In our program, we have sought out ninth-grade students who, despite being talented in mathematics, have not yet had the opportunity to develop their potential during their studies so far. 
 
-## Visiting Schools
+### Visiting Schools
 
 We believe it is essential to establish a personal connection with as many students as possible. Therefore, during the fall semester, we will hold a morning session at each participating school. During this morning, students will encounter engaging, playful, and beautiful mathematical problems. When designing these sessions, we strive to ensure that the program is enjoyable for every interested student.
 
@@ -14,7 +14,7 @@ We believe it is essential to establish a personal connection with as many stude
 * __Scheduling:__ The programs take place on weekdays during regular school hours; exact details will be coordinated with each school individually.
 * __Group Size:__ Minimum of 8, maximum of 30 participants.
 
-## Intensive Training
+### Intensive Training
 
 Through the activities organized at the visited schools, we connect with a large number of students. We hope that many of them will want to pursue mathematics more seriously. For them, we would like to offer a 2.5-year training program designed to enhance their mathematical abilities.
 
@@ -22,7 +22,7 @@ Students who are interested—and meet certain entry requirements—will be give
 
 __Venue:__ ELTE Eötvös József Collegium
 
-## Our Educational Philosophy
+### Our Educational Philosophy
 
 Our most important goal is to teach children how to think: we try to guide them away from searching their memories for formulas, memorized methods, or applicable theorems. Instead, we encourage them to unleash their imagination, brainstorm boldly, and think creatively.
 
