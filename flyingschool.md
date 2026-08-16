@@ -10,9 +10,9 @@ In our program, we have sought out ninth-grade students who, despite being talen
 
 We believe it is essential to establish a personal connection with as many students as possible. Therefore, during the fall semester, we will hold a morning session at each participating school. During this morning, students will encounter engaging, playful, and beautiful mathematical problems. When designing these sessions, we strive to ensure that the program is enjoyable for every interested student.
 
-* '''Duration:''' 3 school lessons.
-* '''Scheduling:''' The programs take place on weekdays during regular school hours; exact details will be coordinated with each school individually.
-* '''Group Size:''' Minimum of 8, maximum of 30 participants.
+* __Duration:__ 3 school lessons.
+* __Scheduling:__ The programs take place on weekdays during regular school hours; exact details will be coordinated with each school individually.
+* __Group Size:__ Minimum of 8, maximum of 30 participants.
 
 ## Intensive Training
 
@@ -20,7 +20,7 @@ Through the activities organized at the visited schools, we connect with a large
 
 Students who are interested—and meet certain entry requirements—will be given the opportunity to participate in the intensive program starting in the spring semester. The sessions will take up one full weekday per month.
 
-'''Venue:''' ELTE Eötvös József Collegium
+__Venue:__ ELTE Eötvös József Collegium
 
 ## Our Educational Philosophy
 
