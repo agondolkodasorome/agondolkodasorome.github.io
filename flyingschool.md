@@ -32,8 +32,6 @@ In addition to all this, we consider it vital that the sessions take place in a 
 
 Between sessions, we expect regular and thorough homework from the participants, as this is the only way to ensure that the program truly benefits them.
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/r3-e_2kQeEM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 <br/>
 
 ## What they said about us
